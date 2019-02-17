@@ -2,9 +2,12 @@ var raindrops = require('../src/raindrops.js')
 
 describe('raindrops', function () {
   it('returns a number', function () {
-    expect(raindrops(5)).toEqual(5)
+    expect(raindrops(4)).toEqual(4)
   })
   it('returns pling if factor of 3', function () {
     expect(raindrops(3)).toEqual('Pling')
+  })
+  it('returns plang if factor of 5', function () {
+    expect(raindrops(5)).toEqual('Plang')
   })
 })
