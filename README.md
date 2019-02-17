@@ -16,3 +16,4 @@ Write a function that takes as its input a number (n) and converts it to a strin
 This test can be completed in a language of your choice and should be made available on your github account. You should write tests to cover your expected range of inputs and outputs. Commit often and document well.
 
 # My Approach:
+I started with project setup - this includes adding the Jasmine test framework, and having it communicate with coveralls.io to ensure I maintain a high test coverage (95%+).
