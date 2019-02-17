@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/leoncross/deloitte_raindrops/badge.svg?branch=master)](https://coveralls.io/github/leoncross/deloitte_raindrops?branch=master)[![Maintainability](https://api.codeclimate.com/v1/badges/5b89ef1c2dddde53f7c6/maintainability)](https://codeclimate.com/github/leoncross/deloitte_raindrops/maintainability)
+
 # Deloitte Tech Test Task:
 
 Write a function that takes as its input a number (n) and converts it to a string, the contents of which depend on the numbers factors
