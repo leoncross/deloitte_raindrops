@@ -4,11 +4,10 @@
   "description": "Write a function that takes as its input a number (n) and converts it to a string, the contents of which depend on the numbers factors",
   "main": "index.js",
   "scripts": {
-    "test": "istanbul cover --include-all-sources jasmine && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js && rm -rf ./coverage",
     "coverage": "istanbul cover --include-all-sources jasmine",
     "lint": "npx eslint src;exit 0",
     "jasmine": "jasmine"
-    },
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/leoncross/deloitte_raindrops.git"
@@ -21,7 +20,7 @@
   "homepage": "https://github.com/leoncross/deloitte_raindrops#readme",
   "devDependencies": {
     "coveralls": "^3.0.2",
-    "eslint": "^5.12.1",
+    "eslint": "^5.14.0",
     "eslint-config-standard": "^12.0.0",
     "eslint-plugin-import": "^2.16.0",
     "eslint-plugin-node": "^8.0.1",
