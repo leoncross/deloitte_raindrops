@@ -4,6 +4,7 @@
   "description": "Write a function that takes as its input a number (n) and converts it to a string, the contents of which depend on the numbers factors",
   "main": "index.js",
   "scripts": {
+    "test": "istanbul cover --include-all-sources jasmine && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js && rm -rf ./coverage",
     "coverage": "istanbul cover --include-all-sources jasmine",
     "lint": "npx eslint src;exit 0",
     "jasmine": "jasmine"
