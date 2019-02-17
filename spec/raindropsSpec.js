@@ -10,4 +10,7 @@ describe('raindrops', function () {
   it('returns plang if factor of 5', function () {
     expect(raindrops(5)).toEqual('Plang')
   })
+  it('returns plong if factor of 7', function () {
+    expect(raindrops(7)).toEqual('Plong')
+  })
 })
