@@ -1,4 +1,4 @@
-[![Coverage Status](https://coveralls.io/repos/github/leoncross/raindrops/badge.svg?branch=master)](https://coveralls.io/github/leoncross/deloitte_raindrops?branch=master)[![Maintainability](https://api.codeclimate.com/v1/badges/5b89ef1c2dddde53f7c6/maintainability)](https://codeclimate.com/github/leoncross/raindrops/maintainability)
+[![Coverage Status](https://coveralls.io/repos/github/leoncross/raindrops/badge.svg?branch=master)](https://coveralls.io/github/leoncross/deloitte_raindrops?branch=master)[![Maintainability](https://api.codeclimate.com/v1/badges/1c15ab94e2ce4246b609/maintainability)](https://codeclimate.com/github/leoncross/raindrops/maintainability)
 
 # Tech Test Task:
 
